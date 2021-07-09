@@ -1,6 +1,6 @@
 # 👋 I'm Tabrez
 
-I help teams build text-driven interfaces and serverless applications.
+I am software developer at intellicar.
 
 [Book a chat](https://calendly.com/jkrsp/first-chat) if you'd like to talk about a project.
 
